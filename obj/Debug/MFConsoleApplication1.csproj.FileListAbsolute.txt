@@ -1,0 +1,44 @@
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\TinyCLR_DebugReferences.cache
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.resources
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.csproj.GenerateResource.Cache
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.tinyresources
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\TinyResGen.cache
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.exe
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.exe
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdb
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdb
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.exe
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.pdb
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pe
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdbx
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pe
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdbx
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pe
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pdbx
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pe
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pdbx
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.exe
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.pdb
+C:\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.exe
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.exe
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdb
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdb
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.exe
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\MFConsoleApplication1.pdb
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pe
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\le\MFConsoleApplication1.pdbx
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pe
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\bin\Debug\be\MFConsoleApplication1.pdbx
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.resources
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.Resources.tinyresources
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\TinyResGen.cache
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pe
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\be\MFConsoleApplication1.pdbx
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pe
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\le\MFConsoleApplication1.pdbx
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.exe
+C:\Users\pl691d\Google Drive\Proyecto Fabi\.NET Micro Framework\Codigos\MFConsoleApplication1\MFConsoleApplication1\obj\Debug\MFConsoleApplication1.pdb
